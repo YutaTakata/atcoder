@@ -4,11 +4,10 @@ using namespace std;
 typedef long long ll;
 
 
-
-
-
 int main(){
-    vector<string> island(10);
-    rep(i, 10) cin >> island[i];
+    int N, K, R, S, P;
+    cin >> N >> K >> R >> S >> P;
+    string T; cin >> T;
 
+    
 }
