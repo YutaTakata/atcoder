@@ -5,7 +5,7 @@ typedef long long ll;
 
 
 int main(){
-	    int K, X; cin >> K >> X;
-        if(500 * K >= X) cout << "Yes" << endl;
-        else cout << "No" << endl;
+	    char C;
+        cin >> C;
+        cout << ++C << endl;
 }
